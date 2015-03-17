@@ -1,0 +1,26 @@
+{
+  "name": "hawaiianchimp/Dropbox-PHP-API",
+  "description": "API for Dropbox OAuth 1.0 using simple plaintext OAuth",
+  "license": "",
+  "authors": [
+    {
+      "name": "Sean Thomas Burke",
+      "email": "sean@seantburke.com",
+      "role": "Developer"
+    }
+  ],
+  "keywords": [
+    "dropbox",
+    "oauth"
+  ],
+  "support": {
+    "issues": "https://github.com/volatileeight/Dropbox-PHP-API/issues"
+  },
+  "require": {
+    "php": ">=5.3.0",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "psr-0": { "hawaiianchimp": "" }
+  }
+}
